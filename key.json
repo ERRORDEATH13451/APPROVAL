@@ -1,1 +1,30 @@
-
+{                                                            "RBJHR-QMU1T-CANIT-SO1GT": {                                 "joined": "2026-02-04",
+    "expires": "2026-03-06",                                   "approved": true,
+    "hwid": null,                                              "type": "paid"
+  },                                                         "8SYGH-3C326-IKRYL-6C07L": {
+    "joined": "2026-02-04",
+    "expires": "2026-03-06",
+    "approved": true,
+    "hwid": null,                                              "type": "paid"
+  },
+  "MJ0ZY-9L7BP-WIHHL-O4ZKE": {
+    "joined": "2026-02-04",
+    "expires": "2026-03-06",
+    "approved": true,
+    "hwid": null,
+    "type": "paid"
+  },
+  "RXNIW-K6O3Y-9OPQ6-CTBXH": {
+    "joined": "2026-02-04",
+    "expires": "2026-03-06",                                   "approved": true,
+    "hwid": null,
+    "type": "paid"
+  },
+  "FF705-1BVZO-TDU2V-XJ5FW": {
+    "joined": "2026-02-04",
+    "expires": "2026-03-06",
+    "approved": true,
+    "hwid": null,
+    "type": "paid"
+  }
+}
